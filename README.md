@@ -7,7 +7,7 @@
 - 개발 인원 : 2인
 
 ## Link
-- [Notion Page](https://www.notion.so/e529935ed71049e4ba7dbcb2d4bcc70b?pvs=21)
+- [Notion Page](https://teinoi.notion.site/PolyCraft-d20fdcd4eb7c4d21b49668abc31932e4?pvs=4)
 - [Download](https://github.com/teinoi/PolyCraft/raw/main/PolyCraft.zip)
 - [Demo Video](https://youtu.be/7f305gugM6w?si=R_BqBzgRVLEvpUb7)
 
@@ -16,7 +16,7 @@
 - OpenXR
 - XR Interaction Toolkit
 
-## 주요 특징
+## Features
 ### 유니티 VR 환경 구축
 OpenXR 플러그인과 XR Interaction Toolkit을 사용하여 Meta Quest의 사용 환경을 구축
 
